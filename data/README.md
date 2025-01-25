@@ -1,9 +1,4 @@
 
-Thank you for clarifying! Here's a README tailored for a Tokyo Olympics Data Engineering Project using Azure:
-
-
----
-
 Tokyo Olympics Data Engineering Project
 
 Project Overview
